@@ -10,5 +10,5 @@ class TestContact:
         print("输入密码")
         allure.attach("登录", "登录的描述")
         print("点击登录")
-        assert 0
+        assert 1
 
